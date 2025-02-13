@@ -89,12 +89,15 @@ python etl/load.py
 
 ## 📊 Power BI Dashboard
 ### **Key Insights in the Dashboard:**
-- **Total Sales and Prfit by Year and Month**
-screenshots/sum_of_profit_and_sum_of_profit_margin_perecent_by_sales.jpg
-- **Total Sales by Product**
-screenshots/sum_of_sales_by_product.jpg
-- **KPI**
-screenshots/sum_of_sales_profit_by_year_month.jpg
+
+#### 🏆 **Total Sales and Profit by Year and Month**
+![Total Sales and Profit by Year & Month](./screenshots/sum_of_sales_profit_by_year_month.jpg)
+
+#### 📦 **Total Sales by Product**
+![Total Sales by Product](./screenshots/sum_of_sales_by_product.jpg)
+
+#### 📈 **KPI Metrics**
+![Profit and Profit Margin by Sales](./screenshots/sum_of_profit_and_sum_of_profit_margin_perecent_by_sales.jpg)
 ---
 
 ## 🛠️ Future Enhancements
